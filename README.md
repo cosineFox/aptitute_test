@@ -7,8 +7,6 @@ An aptitute test for the DVT validator's program
 ## images
 ![VM Creation](https://github.com/cosineFox/aptitute_test/blob/main/vm_creation.png)
 
-![SSH](https://github.com/cosineFox/aptitute_test/blob/main/SSH.png)
-
 ![Port status](https://github.com/cosineFox/aptitute_test/blob/main/portStatus.png)
 
 ![Port validation 30303](https://github.com/cosineFox/aptitute_test/blob/main/portValidation_30303.png)
