@@ -5,10 +5,13 @@ An aptitute test for the DVT validator's program
 -------------------------------------------------------------
 
 ## images
-![VM Creation](https://github.com/cosineFox/aptitute_test/blob/main/vm_creation_IP.png)
+![VM Creation](https://github.com/cosineFox/aptitute_test/blob/main/vm_creation.png)
 
 ![SSH](https://github.com/cosineFox/aptitute_test/blob/main/SSH.png)
 
-![Port Status](https://github.com/cosineFox/aptitute_test/blob/main/portStatus.png)
+![Port status](https://github.com/cosineFox/aptitute_test/blob/main/portStatus.png)
 
-![Port Validation](https://github.com/cosineFox/aptitute_test/blob/main/Port_validation.png)
+![Port validation 30303](https://github.com/cosineFox/aptitute_test/blob/main/portValidation_30303.png)
+
+![Port validation 9000](https://github.com/cosineFox/aptitute_test/blob/main/portValidation_9000.png)
+
